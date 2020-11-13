@@ -41,7 +41,7 @@ rendering engine like was done with kniting to pdf vs knitting to html.
 
 ## No lock-in
 
-Inspired heavily the the `usethis` package, `datadrivencv` strives to
+Inspired heavily by the `usethis` package, `datadrivencv` strives to
 make itself unnecessary. The main function is `use_data_driven_cv`,
 which sets up the files you need to build your CV. These files are
 self-contained meaning if you uninstall `datadrivencv` your CV will
